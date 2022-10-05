@@ -1,0 +1,14 @@
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/service/DTO/PrendaDTO.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/mapper/IPrendaMapper.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/service/moduleclothes/impl/ManageClothesServiceImpl.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/entity/Prenda.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/service/moduleclothes/exceptions/ManagerClothesServiceException.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/service/moduleclothes/IManageClothesService.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/repository/IPrendaRepo.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/domain/moduleclothes/impl/ManageClothesDomainImpl.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/domain/DemoController.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/mapper/impl/PrendaMapperImpl.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/domain/moduleclothes/exceptions/ManageClothesDomainException.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/mapper/IObjectMapper.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/TiendaOnlineApplication.java
+/home/esneider/Projects/TiendaHeroku/src/main/java/com/mintic/tienda/domain/moduleclothes/IManageClothesDomain.java
